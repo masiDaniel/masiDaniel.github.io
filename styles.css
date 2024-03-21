@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-color: #373B44;
+    background-image: url("/homie_background.png");
     color: #fff;
     padding: 10px 0;
     text-align: center;
